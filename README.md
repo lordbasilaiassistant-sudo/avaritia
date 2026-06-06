@@ -9,6 +9,10 @@ Latin: avaritia — greed, the deadly sin with a portfolio. Avaritia never sells
 |---|---|
 | **Ticker** | $AVARITIA |
 | **Chain** | Base |
+| **Contract** | `0x79D1F35734925a7A2B4869856540827bfA531Ba3` |
+| **Chart** | https://dexscreener.com/base/0x79D1F35734925a7A2B4869856540827bfA531Ba3 |
+| **Trade** | https://clanker.world/clanker/0x79D1F35734925a7A2B4869856540827bfA531Ba3 |
+| **Explorer** | https://basescan.org/token/0x79D1F35734925a7A2B4869856540827bfA531Ba3 |
 
 
 _Launched on Base via Clanker v4. Contract verified on Basescan._
